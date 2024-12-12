@@ -107,7 +107,7 @@ h1 , h2 , h3 , h4 , h5 , h6{
 .footer__p{
     line-height: 1.125rem;
     font-weight: lighter;
-    color: rgb(169, 167, 167);
+    color: #5E5050;
 }
 .footer__copy{
     width: 50%;
